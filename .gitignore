@@ -2,3 +2,6 @@ target/
 *.class
 .vscode/
 *.log
+
+# Test audio
+src/main/resources/ttsmaker_voice.wav
